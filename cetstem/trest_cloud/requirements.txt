@@ -1,3 +1,0 @@
-cachelib==0.6.0
-Flask==2.0.3
-Flask_Cors==3.0.10
